@@ -1,0 +1,6 @@
+*.dep
+*.elf
+*.map
+*.o
+*.ps-exe
+*.exe
