@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "types.h": "c",
+        "glob_vars.h": "c",
+        "engine_types.h": "c",
+        "common_inc.h": "c",
+        "libetc.h": "c",
+        "libgte.h": "c"
+    }
+}
